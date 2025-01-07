@@ -1,3 +1,22 @@
+### Audio Capture
+In this project i used nodejs and react js 
+backend is to on the server and store the audio that has been uploaded
+go to the particular directory using cd <file name>
+``` bash
+node server.js
+```
+and return to the main/app directory 
+``` bash
+npm start
+```
+i build the web application in the way after recording audio 
+we can verify the audio before uploading
+its all in user hands to manipulate the application
+the audio data is stored in the uploads folder in local storage 
+
+## Future work 
+You can link with database and store the data in the table 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
