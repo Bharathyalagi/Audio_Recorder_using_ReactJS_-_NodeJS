@@ -6,7 +6,7 @@ backend is to on the server and store the audio that has been uploaded
 ``` bash
 node server.js
 ```
-and return to the main/app directory 
+- return to the main/app directory 
 ``` bash
 npm start
 ```
