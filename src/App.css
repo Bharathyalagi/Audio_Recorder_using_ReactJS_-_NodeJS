@@ -1,0 +1,51 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: chillar;
+  background-color: lightcyan; 
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh; 
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 25px;
+  font-size: 35px;
+  font-family: chillar;
+  color: darkmagenta;
+}
+
+h3 {
+  color:darkmagenta;
+  font-size: 25px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.btn {
+  width: 200px;
+  margin: 10px auto;
+}
+
+audio {
+  margin-top: 20px;
+  width: 100%;
+}
