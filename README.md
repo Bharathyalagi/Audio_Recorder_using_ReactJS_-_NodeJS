@@ -1,7 +1,7 @@
 ### Audio Capture
 In this project i used nodejs and react js 
-backend is to on the server and store the audio that has been uploaded:
-   go to the particular directory using cd <file name>
+backend is to on the server and store the audio that has been uploaded
+`go to the particular directory using cd <file name>`
 ``` bash
 node server.js
 ```
